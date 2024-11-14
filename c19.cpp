@@ -1,7 +1,7 @@
-/*Name: Anuj Gholve
+/*Name: HArshavardhan Ramchandra Gharal
 Class: SE2
-Roll Number: 77
-PRN Number: F24122007
+Roll Number: 49
+PRN Number: F23112049
 
 Problem Statement
 Department of Computer Engineering has student's club named
